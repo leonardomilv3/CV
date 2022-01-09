@@ -1,0 +1,272 @@
+body {
+    background-color: #EAF6F6;
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #11999E;
+    font-size: 100px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 2.5rem;
+    color: #11999E;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top-paragraph {
+    color: #30E3CA;
+    font-size: 30px;
+    margin: 0px;
+
+}
+
+.first-paragraph {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.top-h1 {
+    margin: 0px;
+}
+
+
+.top-div {
+    background-color: #EAF6F6;
+    height: 600px;
+    position: relative;
+    padding-top: 40px;
+    line-height: 2;
+    margin-bottom: 100px;
+    /*margin-top: 90px;*/
+}
+
+.bottom-container {
+    background-color: #11999E;
+    line-height: 3;
+    margin-top: 100px;
+}
+
+.contact-me {
+    line-height: 3;
+    margin-top: 100px;
+}
+
+hr {
+    border-color: #D3DEDC;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    border_radius: 10px;
+    width: 10%;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 30px;
+    right: 350px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 200px;
+}
+
+.profile {
+    margin-bottom: 120px;
+}
+
+.profile-photo {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+}
+
+.images {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    float: left;
+    margin-right: 50px;
+}
+
+.coding-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    float: right;
+}
+
+.table-skills {
+    text-align: center;
+    cellspacing: "20";
+    border: 1px solid black;
+    width: 40%;
+    margin-left: 100px;
+}
+
+.table-exp {
+    border-collapse: collapse;
+    text-align: center;
+    cellspacing: "20";
+    border: 1px solid black;
+    width: 65%;
+    margin-right: 0px;
+}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.footer-link {
+    color: #40514E;
+    font-size: 20px;
+    margin: 30px;
+}
+
+.footer-link:hover {
+    color: white;
+}
+
+.skill-row {
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.coding-row {
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.btn {
+    color: white;
+    background: #30E3CA;
+    /*background-image: -webkit-linear-gradient(top, #3498db, #2980b9);*/
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 200px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+}
+
+.skills {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+/*
+    /*
+margin-top: 50px;
+margin-left: 600px;
+
+position: relative;
+    top: 30px;
+    left: 50px;
+    */
+*/
+
+/*
+    .bottom-div {
+    background-color: blue;
+    color: blue;
+    height: 200px;
+    width: 200px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+*/
+
+/*
+table, th, td {
+    border-collapse: collapse;
+    margin: 0 auto;
+    text-align: center;
+    cellspacing: "20";
+    border: 1px solid black;
+    width: 50%;
+}
+*/
+
+/*
+    .middle-div {
+    margin: 0px;
+    background-color: red;
+    color: red;
+    height: 200px;
+    width: 200px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+*/
+
+/*
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+*/
+/*
+.tr-skills:nth-child(odd) {
+    background-color: #04AA6D;
+    color: white;
+}
+*/
+/*
+.table{
+  display:table;
+  width:100%;
+  table-layout:fixed;
+}
+
+.table_cell{
+  display:table-cell;
+  width:100px;
+  border:solid black 1px;
+}
+*/
+
+/* ----------------------------- Editing Borders -----------------------------*/
+
+/*
+
+.bottom-div {
+    background-color: blue;
+    color: blue;
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+*/
